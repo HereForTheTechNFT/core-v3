@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en français est disponible dans [docs/fr/](docs/fr/).
+
 # Gearbox Protocol
 
 Gearbox Protocol brings you **onchain credit**, allowing anyone to margin trade on Uniswap, leverage farm on Curve, leverage stake on Lido, and use 10X more capital on many DeFi protocols you love, as well as RWA & NFTs. Making decentralized leverage a reality thanks to Credit Account abstraction! 
